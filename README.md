@@ -17,7 +17,7 @@
 
 ## I'm a Machine Learning and Robotics Enthusiast
 
--  I am currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
+-  Currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
 -  I am passionate about Computer Vision, Deep Reinforcement Learning, Robot Perception and ML based robot controllers.
 -  Looking to work on fields related to Machine Learning and AI 
 -  Know more about me at [srini-rohan.github.io](https://srini-rohan.github.io/)
