@@ -30,7 +30,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <code>
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
-<img src="https://github.com/github/explore/blob/main/topics/pytorch/pytorch.png" width="40" height="40" /> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" /> 
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" width="40" height="40" /> 
