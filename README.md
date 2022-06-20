@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-brown"> <img src="https://img.shields.io/badge/Reinforcement Learning-yellow"> 
  <img src="https://img.shields.io/badge/Robotics-blue">
 </p>
-### :hammer_and_wrench: Languages and Tools :
-<code>
+<h3> :hammer_and_wrench: Languages and Tools :</h3>
 
+<code>
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40" /> 
 <img src="https://github.com/github/explore/raw/main/topics/python/python.png" width="40" height="40" /> 
