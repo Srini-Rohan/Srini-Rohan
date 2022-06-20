@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Srini-Rohan&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/>
   </h1>
 </div>
@@ -19,4 +19,11 @@
 
 -  I am currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
 -  I am passionate about Computer Vision, Deep Reinforcement Learning, Robot Perception and ML based robot controllers.
+-  Looking to work on fields related to Machine Learning and AI 
 -  Know more about me at [srini-rohan.github.io](https://srini-rohan.github.io/)
+
+<p align="center">
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-brown"> <img src="https://img.shields.io/badge/Reinforcement Learning-yellow"> 
+ <img src="https://img.shields.io/badge/Robotics-blue">
+</p>
+
