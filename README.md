@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/srini-rohan-gujulla-leel-9ab533219/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:gujullal.srinirohan.ece20@itbhu.ac.in">
+    <a href="mailto:gujullal.srinirohan.ece20@iitbhu.ac.in">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
@@ -15,3 +15,8 @@
   </h1>
 </div>
 
+## I'm a Machine Learning and Robotics Enthusiast
+
+-  I am currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
+-  I am passionate about Computer Vision, Deep Reinforcement Learning, Robot Perception and ML based robot controllers.
+-  Know more about me at srini-rohan.github.io
