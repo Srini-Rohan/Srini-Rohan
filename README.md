@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-brown"> <img src="https://img.shields.io/badge/Reinforcement Learning-yellow"> 
  <img src="https://img.shields.io/badge/Robotics-blue">
 </p>
-
+<code>
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://github.com/github/explore/raw/main/topics/tensorflow/tensorflow.png" width="40" height="40" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="40" height="40" /> 
@@ -36,6 +36,7 @@
 <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
  <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" width="40" height="40" /> 
+ </code><hr/>
+
 ### :fire: My Stats :
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Srini-Rohan&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
-<br/>
