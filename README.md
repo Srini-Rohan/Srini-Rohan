@@ -37,5 +37,7 @@
 <img src="https://github.com/github/explore/raw/main/topics/opencv/opencv.png" width="40" height="40" />
 <img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
  <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" width="40" height="40" /> 
-
 </code><hr/>
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Srini-Rohan&theme=dark&background=000000)](https://git.io/streak-stats)
