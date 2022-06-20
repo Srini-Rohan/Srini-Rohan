@@ -42,5 +42,4 @@
 ### :fire: My Stats :
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Srini-Rohan&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srini-Rohan&layout=compact)](https://github.com/Srini-Rohan/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srini-Rohan&layout=compact)
