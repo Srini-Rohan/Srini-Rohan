@@ -18,8 +18,8 @@
 ## I'm a Machine Learning and Robotics Enthusiast
 
 -  Currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
--  My passion lies in the fields of probability and statistics and their applications in Machine Learning. I am particularly interested in Reinforcement Learning and Computer Vision and their applications in robotics.
--  Looking to work on fields related to Machine Learning and AI 
+-  My passion lies in the fields of Probability and Statistics, Graph Theory and their applications in Machine Learning. I am particularly interested in Reinforcement Learning, Computer Vision, Graph Representation Learning and their applications in robotics.
+-  Looking to work on fields related to Machine Learning, AI and, Statistics 
 -  Know more about me at [srini-rohan.github.io](https://srini-rohan.github.io/)
 
 <p align="center">
