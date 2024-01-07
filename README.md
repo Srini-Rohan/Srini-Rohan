@@ -18,9 +18,8 @@
 ## I'm a Machine Learning and Robotics Enthusiast
 
 -  Currently pursuing Bachelors in Electronics Engineering at IIT (BHU) Varanasi
--  My passion lies in the fields of Probability and Statistics, Graph Theory and their applications in Machine Learning. I am particularly interested in Reinforcement Learning, Computer Vision, Graph Representation Learning and their applications in robotics.
--  Looking to work on fields related to Machine Learning, AI and, Statistics 
--  Know more about me at [srini-rohan.github.io](https://srini-rohan.github.io/)
+-  My passion lies in the fields of Probability, Statistics, and Machine Learning. I am particularly interested in Reinforcement Learning, Computer Vision, and Time Series Analysis.
+-  Looking to work on fields related to Machine Learning, AI, and Statistics 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-brown"> <img src="https://img.shields.io/badge/Reinforcement Learning-yellow"> 
@@ -38,8 +37,5 @@
 <img src="https://github.com/github/explore/raw/main/topics/scikit-learn/scikit-learn.png" width="40" height="40" /> 
  <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" width="40" height="40" /> 
  </code><hr/>
-
-### :fire: My Stats :
-![Github stats](https://github-readme-stats.vercel.app/api?username=Srini-Rohan&show_icons=true&theme=tokyonight&count_private=true&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srini-Rohan&layout=compact)
